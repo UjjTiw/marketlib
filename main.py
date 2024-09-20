@@ -5,5 +5,5 @@ if __name__ == '__main__':
     
     model_4_markets(year=2019, days=30)
     model_power_plants(year=2019, days=30)
-    
     pass
+    
